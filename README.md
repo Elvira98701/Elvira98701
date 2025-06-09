@@ -1,16 +1,24 @@
-## Hi there 👋
+# Привет! Меня зовут Эльвира 👋
 
-<!--
-**Elvira98701/Elvira98701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧰 Стек технологий
 
-Here are some ideas to get you started:
+### Языки и разметка:
+![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Фреймворки и библиотеки:
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-000?logo=zustand&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-EF0075?logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=black)
+
+### Инструменты:
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
