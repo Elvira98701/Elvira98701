@@ -5,6 +5,7 @@
 ### Языки и разметка:
 ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
@@ -22,3 +23,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
+
+## 📫 Контакты
+- Telegram: [@FramerDream](https://t.me/FramerDream)
